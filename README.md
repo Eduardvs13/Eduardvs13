@@ -20,7 +20,7 @@ Top 10 de la Escuela de Ingeniería Informática durante 4 semestres consecutivo
 | **Scuola Italiana Agustín Codazzi** | Desarrollador full stack (sept. 2024 a sept. 2025). Portal bilingüe español/italiano con roles. Empezó como proyecto de la universidad y pasó a ser un cliente real. Código privado del cliente. | Angular, .NET/C#, PostgreSQL |
 | **Fundación Ayúdate** | Líder técnico de un equipo de 4 (dic. 2025 a sept. 2026, servicio comunitario). Refactorización, rendimiento y SEO del sitio. Lighthouse: 96 rendimiento, 100 SEO, 91 accesibilidad, 96 buenas prácticas. [fundacionayudate.org.ve](https://fundacionayudate.org.ve) | Adobe Edge Delivery Services, JavaScript |
 | [**ucab-tasks**](https://github.com/Eduardvs13/ucab-tasks) | API REST de notas, proyecto en equipo. Swagger, patrones Strategy, Factory y Adapter, pruebas unitarias y e2e. | NestJS, TypeScript |
-| [**InGsight**](https://github.com/Eduardvs13/InGsight) | Sitio de divulgación científica de ingeniería, hecho en equipo de 2. Rediseño, SSR y SEO. [ingsight-web.vercel.app](https://ingsight-web.vercel.app) | Astro, Sanity, Vercel |
+| [**InGsight**](https://github.com/Eduardvs13/InGsight) | Sitio de divulgación científica de ingeniería, desarrollado en equipo de 2 a pedido de una profesora. Rediseño, SSR y SEO. [ingsight-web.vercel.app](https://ingsight-web.vercel.app) | Astro, Sanity, Vercel |
 
 ## Stack
 
